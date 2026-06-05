@@ -1,3 +1,31 @@
+<!--
+PneumoAI Project Report
+
+The full project report PDF is included in this repository as
+`PneumoAI_Project_Report.pdf` and can be opened directly on GitHub.
+
+If your browser supports embedding, the PDF will appear below. If embedding
+is not allowed by the viewer, click the link to open the PDF in a new tab.
+
+-->
+
+# PneumoAI — Project Report
+
+**View the full PDF report (opens below if supported):**
+
+<p>
+<a href="https://github.com/tridipsamanta/PneumoAi/blob/main/PneumoAI_Project_Report.pdf">Open PDF on GitHub</a>
+</p>
+
+<!-- Attempt to embed via raw GitHub content. Note: GitHub sanitizes some HTML
+         so inline embedding may be blocked; if so, use the link above. -->
+
+<iframe src="https://raw.githubusercontent.com/tridipsamanta/PneumoAi/main/PneumoAI_Project_Report.pdf" width="100%" height="800px">
+    Your browser does not support iframes — open the PDF directly: <a href="https://github.com/tridipsamanta/PneumoAi/blob/main/PneumoAI_Project_Report.pdf">PneumoAI_Project_Report.pdf</a>
+</iframe>
+
+---
+
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
